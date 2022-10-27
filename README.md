@@ -10,4 +10,4 @@ into the following classes: extremely positive, positive, neutral, negative and 
 
 In this course project only ML models have been applied and I wish to work on DL architectures such as transformers as well in the future work.
 
-I have done the above course project during my course-work "Natural Language Processing(DSE407)" while studying at Indian Institute of Science Educatioon and Research(IISER) Bhopal in the 3rd year of my BS in Data Science. In this course project my teammate was Saswata Sarkar, he has done the EDA, data preprocessing, text mining part and rest of the code including various ML models using GridSearchCV and the comparisons was done by me.
+I have done the above course project during my course-work "Natural Language Processing(DSE407)" while studying at Indian Institute of Science Educatioon and Research(IISER) Bhopal in the 4th year of my BS in Data Science. In this course project my teammate was Saswata Sarkar, he has done the EDA, data preprocessing, text mining part and rest of the code including various ML models using GridSearchCV and the comparisons was done by me.
